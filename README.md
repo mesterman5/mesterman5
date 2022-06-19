@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mesterman5, but you can call me mel. I use she/her or they/them pronouns.
+- 👋 Hi, I’m @mesterman5, but you can call me Mel. I use she/her or they/them pronouns.
 - 👀 I’m interested in ice cream, web development, accessibility, and music.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node, React, and whatever else comes my way.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node, React, Ruby, and whatever else comes my way.
